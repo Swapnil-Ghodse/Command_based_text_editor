@@ -1,6 +1,10 @@
 import java.io.IOException;
 import java.util.Arrays;
 
+import com.sun.jna.Library;
+import com.sun.jna.Native;
+import com.sun.jna.Structure;
+
 public class Main {
     public static void main(String[] args) throws IOException{
 
